@@ -31,31 +31,31 @@ installed and running on their respective virtual machines.
 
 Nginx is running successfully on the web server.
 
-![Nginx Status](screenshots/nginx_status.PNG)
+![Nginx Status](screeenshots/nginx.png)
 
 ### 2. Tomcat - app01
 
 Tomcat is running successfully on the application server.
 
-![Tomcat Status](screenshots/tomcat-status.png)
+![Tomcat Status](screeenshots/tomcat.png)
 
 ### 3. RabbitMQ - rmq01
 
 RabbitMQ is running successfully on the message broker server.
 
-![RabbitMQ Status](screenshots/rabbitmq-status.png)
+![RabbitMQ Status](screeenshots/rabbitmq.png)
 
 ### 4. Memcached - mc01
 
 Memcached is running successfully on the caching server.
 
-![Memcached Status](screenshots/memcached-status.png)
+![Memcached Status](screeenshots/memcached.png)
 
 ### 5. MariaDB - db01
 
 MariaDB is running successfully on the database server.
 
-![MariaDB Status](screenshots/mariadb-status.png)
+![MariaDB Status](screeenshots/mariadb.png)
 
 ## Technologies Used
 
